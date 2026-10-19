@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dinh Tuan Duong — Full-stack and DevSecOps</title>
+  <desc id="desc">Navy and cyan profile banner with an abstract connected-systems motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c172c"/>
+      <stop offset="1" stop-color="#102b3f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4de0dd"/>
+      <stop offset="1" stop-color="#7abaff"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#73a2b8" opacity="0.14"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="756" y="0" width="524" height="320" rx="20" fill="url(#dots)"/>
+  <path d="M0 295 H1280" stroke="#2d5466" stroke-width="1" opacity="0.6"/>
+  <rect x="56" y="52" width="34" height="4" rx="2" fill="url(#accent)"/>
+  <text x="106" y="59" fill="#6cddd9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.5">FULL-STACK / DEVSECOPS</text>
+  <text x="52" y="141" fill="#f4f8fd" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">DINH TUAN DUONG</text>
+  <text x="56" y="190" fill="#bdccdc" font-family="Arial, Helvetica, sans-serif" font-size="23">Web applications. Linux systems. Security.</text>
+  <text x="56" y="257" fill="#83a4bb" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0.8">HO CHI MINH CITY, VIETNAM</text>
+  <g fill="none" stroke="#3c6b81" stroke-width="2">
+    <path d="M842 105 H918 V162 H989"/>
+    <path d="M989 162 H1102 V92 H1160"/>
+    <path d="M989 162 V239 H1102"/>
+    <path d="M840 241 H884 V207 H989 V162"/>
+    <circle cx="989" cy="162" r="59" stroke="#244658"/>
+    <circle cx="989" cy="162" r="83" stroke="#244658" stroke-dasharray="3 12"/>
+  </g>
+  <g fill="#122d42" stroke="#4b8aa0" stroke-width="1.5">
+    <rect x="796" y="76" width="92" height="58" rx="12"/>
+    <rect x="1120" y="64" width="100" height="58" rx="12"/>
+    <rect x="1086" y="211" width="134" height="58" rx="12"/>
+    <rect x="795" y="223" width="64" height="36" rx="9"/>
+  </g>
+  <g fill="#b1d0de" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+    <text x="842" y="111">WEB</text>
+    <text x="1170" y="99">OPS</text>
+    <text x="1153" y="246">SECURITY</text>
+  </g>
+  <g fill="#53d7d4">
+    <circle cx="827" cy="241" r="4"/>
+    <circle cx="989" cy="162" r="28" fill="#163e50" stroke="#53d7d4" stroke-width="2"/>
+    <path d="M981 152 L971 162 L981 172 M997 152 L1007 162 L997 172" fill="none" stroke="#a1f0ed" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="918" cy="105" r="4"/>
+    <circle cx="1102" cy="162" r="4"/>
+    <circle cx="989" cy="239" r="4"/>
+  </g>
+</svg>
