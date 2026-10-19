@@ -21,13 +21,13 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 
 **Mekong Technologies — Công ty Cổ phần Công nghệ Mekong**  
 **IT Full-stack & DevOps**  
-*05–10/2026 · Thực tập: 05–07 · Nhân viên full-time: 08–10*
+*05/2026 – 09/2026 · Thực tập: 05–06/2026 · Nhân viên chính thức: 07–09/2026*
 
 - **DDC24:** phát triển frontend, logic ứng dụng backend và phụ trách công việc DevOps cho bộ điều khiển BMS biên chạy trên Linux. Công nghệ dự án: React/TypeScript, Go, GitHub Actions, CMake và systemd.
 - **MK200:** tập trung reverse engineering, khôi phục mã nguồn, kiểm thử bảo mật và kiểm thử chức năng của nền tảng IoT gateway/BMS/SCADA. Phân tích các thành phần đang chạy, đối chiếu giao diện Python/Cython được khôi phục với mã nguồn phiên bản trước.
 
 **HPT Vietnam — Thực tập sinh SOC Tier 1**  
-*2025*
+*10/2025 – 12/2025*
 
 - Giám sát và phân loại cảnh báo trên Elastic SIEM; phân tích Windows Event Log, Syslog và lưu lượng mạng.
 - Tương quan bằng chứng, ánh xạ hành vi theo MITRE ATT&CK và lập báo cáo để chuyển cấp xử lý sự cố.
