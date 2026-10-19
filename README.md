@@ -20,13 +20,13 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 ## Experience
 
 **Mekong Technologies — IT Full-stack & DevOps**  
-*May–October 2026 · Internship: May–July · Full-time employee: August–October*
+*May–September 2026 · Internship: May–June · Full-time: July–September*
 
 - **DDC24:** developed the frontend and backend application logic, and handled DevOps work for a Linux-based BMS edge controller. Project stack: React/TypeScript, Go, GitHub Actions, CMake and systemd.
 - **MK200:** focused on reverse engineering, source recovery, security testing and functional testing of an industrial IoT gateway and BMS/SCADA platform. Investigated running components and compared recovered Python/Cython interfaces with earlier source.
 
 **HPT Vietnam — SOC Tier 1 Intern**  
-*2025*
+*October–December 2025*
 
 - Monitored and triaged Elastic SIEM alerts; investigated Windows Event Logs, Syslog and network traffic.
 - Correlated evidence, mapped observed behavior to MITRE ATT&CK and documented incidents for escalation.
