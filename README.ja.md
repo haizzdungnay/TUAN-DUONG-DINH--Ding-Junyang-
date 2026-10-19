@@ -55,20 +55,14 @@
 
 ## その他のプロジェクト詳細
 
-<div align="center">
-  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=WebSiteOtakuShopVer2&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="OtakuShop — フルスタックEC" />
-  </a>
-  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=local-ai-siem-analyzer&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Local AI SIEM — セキュリティエンジニアリング" />
-  </a>
-  <a href="https://github.com/haizzdungnay/VSAT_COMPASS">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=VSAT_COMPASS&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="V-SAT Compass — Android・バックエンド" />
-  </a>
-  <a href="https://github.com/haizzdungnay/DDC24">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 — 産業用アプリケーション・DevOps" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — フルスタックEC" /></a>
+  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM — セキュリティ分析" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/haizzdungnay/VSAT_COMPASS"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Androidとバックエンド" /></a>
+  <a href="https://github.com/haizzdungnay/DDC24"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — 産業用ソフトウェアとDevOps" /></a>
+</p>
 
 <br/>
 
