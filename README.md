@@ -42,14 +42,31 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 - Monitored and triaged Elastic SIEM alerts; investigated Windows Event Logs, Syslog and network traffic.
 - Correlated evidence, mapped observed behavior to MITRE ATT&CK and documented incidents for escalation.
 
-## Selected projects
+## Featured engineering work
+
+A curated entry point for recruiters: working software, security-focused engineering and documented implementation decisions. Each case study links to public source evidence and states verification limits.
+
+| Engineering case study | Public evidence |
+| :--- | :--- |
+| **[OtakuShop — Full-Stack Commerce](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
+| **[Local AI SIEM — Security Engineering](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
+| **[V-SAT Compass — Android & Backend](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
+| **[DDC24 — Industrial Application & DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
+
+## Additional project details
 
 <div align="center">
-  <a href="https://github.com/haizzdungnay/DDC24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Featured repository DDC24" />
+  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=WebSiteOtakuShopVer2&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="OtakuShop — Full-Stack Commerce" />
   </a>
-  <a href="https://github.com/haizzdungnay/MK200">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Featured repository MK200" />
+  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=local-ai-siem-analyzer&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Local AI SIEM — Security Engineering" />
+  </a>
+  <a href="https://github.com/haizzdungnay/VSAT_COMPASS">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=VSAT_COMPASS&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="V-SAT Compass — Android & Backend" />
+  </a>
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 — Industrial Application & DevOps" />
   </a>
 </div>
 
@@ -64,7 +81,7 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 | **[VNA Đắk Song](https://github.com/haizzdungnay/VNA_Chat-Bot-for-Dak-Song-prv)** | End-to-end implementation of a tourism web/Zalo Mini App, admin tools and backend integrations. | React, TypeScript, Zalo Mini App, Cloudflare Workers/D1 |
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | End-to-end implementation of an e-commerce application with authentication, access control, ordering and VNPAY sandbox integration. | Next.js, TypeScript, Prisma, PostgreSQL |
 
-The last four projects were organized as team projects; I carried out their end-to-end implementation.
+Several projects originated in team or academic settings. My implementation responsibilities are described per project; original collaborators and repository attribution are retained. The case studies separate personal contributions, project-wide capabilities and verified public evidence.
 
 ## Technical toolkit
 

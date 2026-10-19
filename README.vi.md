@@ -43,14 +43,31 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 - Giám sát và phân loại cảnh báo trên Elastic SIEM; phân tích Windows Event Log, Syslog và lưu lượng mạng.
 - Tương quan bằng chứng, ánh xạ hành vi theo MITRE ATT&CK và lập báo cáo để chuyển cấp xử lý sự cố.
 
-## Dự án tiêu biểu
+## Dự án kỹ thuật nổi bật
+
+Bốn dự án đại diện cho năng lực Full-Stack, Security Engineering, Android/backend và phần mềm công nghiệp. Mỗi bài phân tích liên kết với mã nguồn hoặc tài liệu công khai, nêu rõ đóng góp cá nhân và giới hạn kiểm chứng.
+
+| Engineering case study | Public evidence |
+| :--- | :--- |
+| **[OtakuShop — Thương mại điện tử Full-Stack](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
+| **[Local AI SIEM — Kỹ thuật bảo mật](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
+| **[V-SAT Compass — Android & Backend](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
+| **[DDC24 — Ứng dụng công nghiệp & DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
+
+## Danh sách dự án và công nghệ
 
 <div align="center">
-  <a href="https://github.com/haizzdungnay/DDC24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ repository DDC24" />
+  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=WebSiteOtakuShopVer2&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="OtakuShop — Thương mại điện tử Full-Stack" />
   </a>
-  <a href="https://github.com/haizzdungnay/MK200">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ repository MK200" />
+  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=local-ai-siem-analyzer&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Local AI SIEM — Kỹ thuật bảo mật" />
+  </a>
+  <a href="https://github.com/haizzdungnay/VSAT_COMPASS">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=VSAT_COMPASS&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="V-SAT Compass — Android & Backend" />
+  </a>
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 — Ứng dụng công nghiệp & DevOps" />
   </a>
 </div>
 
@@ -65,7 +82,7 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 | **[VNA Đắk Song](https://github.com/haizzdungnay/VNA_Chat-Bot-for-Dak-Song-prv)** | Triển khai toàn bộ web/Zalo Mini App du lịch, công cụ quản trị và các phần tích hợp backend. | React, TypeScript, Zalo Mini App, Cloudflare Workers/D1 |
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | Triển khai toàn bộ ứng dụng thương mại điện tử: xác thực, phân quyền, đặt hàng và tích hợp VNPAY sandbox. | Next.js, TypeScript, Prisma, PostgreSQL |
 
-Bốn dự án cuối được tổ chức theo nhóm; mình trực tiếp thực hiện toàn bộ phần triển khai.
+Một số dự án được tổ chức theo nhóm hoặc trong môi trường học thuật. Phần việc mình trực tiếp đảm nhiệm được mô tả theo từng dự án; đồng thời giữ nguyên ghi nhận các thành viên tham gia. Các bài phân tích kỹ thuật tách biệt vai trò cá nhân, chức năng toàn hệ thống và minh chứng công khai.
 
 ## Công nghệ và kỹ năng
 
