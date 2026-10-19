@@ -6,10 +6,21 @@
   <a href="./README.md">English</a> · <strong>Tiếng Việt</strong> · <a href="./README.ja.md">日本語</a>
 </p>
 
-<p align="center">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4DE0DD&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;DevSecOps+Engineer;Security+Engineering+Enthusiast;Building+Secure+%26+Scalable+Systems)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=haizzdungnay&style=flat-square&color=4de0dd&labelColor=0c172c&label=Profile+views" alt="Lượt xem hồ sơ" />
+  <img src="https://img.shields.io/github/followers/haizzdungnay?style=flat-square&color=4de0dd&labelColor=0c172c&label=Followers" alt="Người theo dõi GitHub" />
+</p>
+
+<p>
   TP. Hồ Chí Minh, Việt Nam · Sẵn sàng làm việc từ xa và chuyển nơi ở để làm việc<br />
   <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Các repository</a>
 </p>
+
+</div>
 
 ## Giới thiệu
 
@@ -34,6 +45,17 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 
 ## Dự án tiêu biểu
 
+<div align="center">
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ repository DDC24" />
+  </a>
+  <a href="https://github.com/haizzdungnay/MK200">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ repository MK200" />
+  </a>
+</div>
+
+<br/>
+
 | Dự án | Phần mình thực hiện | Công nghệ |
 | :--- | :--- | :--- |
 | **[DDC24](https://github.com/haizzdungnay/DDC24)** · Mekong | Frontend, logic backend và DevOps cho bộ điều khiển công nghiệp. | React, TypeScript, Go, Linux, GitHub Actions |
@@ -47,11 +69,41 @@ Bốn dự án cuối được tổ chức theo nhóm; mình trực tiếp thự
 
 ## Công nghệ và kỹ năng
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,go,java,docker,linux,git,githubactions,postgres&theme=dark" alt="Biểu tượng kỹ năng công nghệ" />
+  </a>
+</div>
+
+<br/>
+
 - **Frontend và mobile:** React, TypeScript, Next.js, Android/Java.
 - **Backend và dữ liệu:** Python/FastAPI, Go, Node.js/NestJS, Java/Spring Boot; PostgreSQL, TimescaleDB, SQLite, Redis và Prisma.
 - **DevOps:** Linux, Docker/Compose, Nginx, systemd, GitHub Actions, tự động hóa build/test và kiểm tra bảo mật trong CI.
 - **Bảo mật:** Elastic SIEM, Wazuh, phân tích log, MITRE ATT&CK, Burp Suite, kiểm thử web theo OWASP, Wireshark và Nmap.
 - **AI ứng dụng:** tích hợp LLM local bằng Ollama, RAG với ChromaDB, các dự án phân loại lưu lượng mạng.
+
+## 🐍 Biểu đồ đóng góp
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg" />
+    <img alt="Hoạt ảnh rắn đóng góp GitHub của Đinh Tuấn Dương" src="./dist/snake.svg" />
+  </picture>
+</div>
+
+## 📊 Thống kê GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haizzdungnay&show_icons=true&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ thống kê GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=haizzdungnay&background=0c172c&border=244658&stroke=244658&ring=4de0dd&fire=4de0dd&currStreakNum=f4f8fd&sideNums=f4f8fd&currStreakLabel=4de0dd&sideLabels=bdccdc&dates=83a4bb" alt="Chuỗi ngày đóng góp GitHub" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizzdungnay&layout=compact&bg_color=0c172c&title_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Thẻ ngôn ngữ được dùng nhiều nhất" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haizzdungnay&theme=github_dark" alt="Thẻ tổng quan hồ sơ GitHub" />
+</div>
 
 ## Học vấn và hoạt động
 

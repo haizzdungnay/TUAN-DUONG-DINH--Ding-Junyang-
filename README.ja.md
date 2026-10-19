@@ -6,10 +6,21 @@
   <a href="./README.md">English</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>日本語</strong>
 </p>
 
-<p align="center">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4DE0DD&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;DevSecOps+Engineer;Security+Engineering+Enthusiast;Building+Secure+%26+Scalable+Systems)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=haizzdungnay&style=flat-square&color=4de0dd&labelColor=0c172c&label=Profile+views" alt="プロファイル閲覧数" />
+  <img src="https://img.shields.io/github/followers/haizzdungnay?style=flat-square&color=4de0dd&labelColor=0c172c&label=Followers" alt="GitHub フォロワーバッジ" />
+</p>
+
+<p>
   ベトナム・ホーチミン市在住 · リモート勤務・転居に対応可能<br />
   <a href="mailto:tuanduongdinh2004@gmail.com">メール</a> · <a href="https://github.com/haizzdungnay?tab=repositories">リポジトリ一覧</a>
 </p>
+
+</div>
 
 ## 自己紹介
 
@@ -33,6 +44,17 @@
 
 ## 主なプロジェクト
 
+<div align="center">
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 リポジトリカード" />
+  </a>
+  <a href="https://github.com/haizzdungnay/MK200">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="MK200 リポジトリカード" />
+  </a>
+</div>
+
+<br/>
+
 | プロジェクト | 担当内容 | 技術 |
 | :--- | :--- | :--- |
 | **[DDC24](https://github.com/haizzdungnay/DDC24)** · Mekong | 産業用エッジコントローラーのフロントエンド、バックエンドロジック、DevOps。 | React, TypeScript, Go, Linux, GitHub Actions |
@@ -46,11 +68,41 @@
 
 ## 技術スキル
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,go,java,docker,linux,git,githubactions,postgres&theme=dark" alt="技術スキルアイコン" />
+  </a>
+</div>
+
+<br/>
+
 - **フロントエンド・モバイル：** React、TypeScript、Next.js、Android/Java。
 - **バックエンド・データ：** Python/FastAPI、Go、Node.js/NestJS、Java/Spring Boot、PostgreSQL、TimescaleDB、SQLite、Redis、Prisma。
 - **DevOps：** Linux、Docker/Compose、Nginx、systemd、GitHub Actions、ビルド・テスト自動化、CIでのセキュリティチェック。
 - **セキュリティ：** Elastic SIEM、Wazuh、ログ分析、MITRE ATT&CK、Burp Suite、OWASPに基づくWebテスト、Wireshark、Nmap。
 - **AI活用：** OllamaによるローカルLLM連携、ChromaDBを用いたRAG、ネットワークトラフィック分類。
+
+## 🐍 コントリビューショングラフ
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg" />
+    <img alt="コントリビューショングラフのスネークアニメーション" src="./dist/snake.svg" />
+  </picture>
+</div>
+
+## 📊 GitHub 統計
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haizzdungnay&show_icons=true&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="GitHub 統計カード" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=haizzdungnay&background=0c172c&border=244658&stroke=244658&ring=4de0dd&fire=4de0dd&currStreakNum=f4f8fd&sideNums=f4f8fd&currStreakLabel=4de0dd&sideLabels=bdccdc&dates=83a4bb" alt="GitHub コントリビューションストリーク" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizzdungnay&layout=compact&bg_color=0c172c&title_color=4de0dd&text_color=bdccdc&border_color=244658" alt="最も使用されている言語" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haizzdungnay&theme=github_dark" alt="GitHub プロファイルサマリーカード" />
+</div>
 
 ## 学歴・コミュニティ活動
 

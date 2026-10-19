@@ -6,10 +6,21 @@
   <strong>English</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.ja.md">日本語</a>
 </p>
 
-<p align="center">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4DE0DD&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;DevSecOps+Engineer;Security+Engineering+Enthusiast;Building+Secure+%26+Scalable+Systems)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=haizzdungnay&style=flat-square&color=4de0dd&labelColor=0c172c&label=Profile+views" alt="Profile views counter" />
+  <img src="https://img.shields.io/github/followers/haizzdungnay?style=flat-square&color=4de0dd&labelColor=0c172c&label=Followers" alt="GitHub followers badge" />
+</p>
+
+<p>
   Ho Chi Minh City, Vietnam · Open to remote work and relocation<br />
   <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Repositories</a>
 </p>
+
+</div>
 
 ## About me
 
@@ -33,6 +44,17 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 
 ## Selected projects
 
+<div align="center">
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Featured repository DDC24" />
+  </a>
+  <a href="https://github.com/haizzdungnay/MK200">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Featured repository MK200" />
+  </a>
+</div>
+
+<br/>
+
 | Project | What I worked on | Technologies |
 | :--- | :--- | :--- |
 | **[DDC24](https://github.com/haizzdungnay/DDC24)** · Mekong | Frontend, backend logic and DevOps for an industrial edge controller. | React, TypeScript, Go, Linux, GitHub Actions |
@@ -46,11 +68,41 @@ The last four projects were organized as team projects; I carried out their end-
 
 ## Technical toolkit
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,go,java,docker,linux,git,githubactions,postgres&theme=dark" alt="Technical skill icons" />
+  </a>
+</div>
+
+<br/>
+
 - **Frontend & mobile:** React, TypeScript, Next.js, Android/Java.
 - **Backend & data:** Python/FastAPI, Go, Node.js/NestJS, Java/Spring Boot; PostgreSQL, TimescaleDB, SQLite, Redis and Prisma.
 - **DevOps:** Linux, Docker/Compose, Nginx, systemd, GitHub Actions, build/test automation and CI security checks.
 - **Security:** Elastic SIEM, Wazuh, log analysis, MITRE ATT&CK, Burp Suite, OWASP web testing, Wireshark and Nmap.
 - **Applied AI:** local LLM integration with Ollama, RAG with ChromaDB, network-traffic classification projects.
+
+## 🐍 Contribution activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg" />
+    <img alt="Dinh Tuan Duong's contribution snake animation" src="./dist/snake.svg" />
+  </picture>
+</div>
+
+## 📊 GitHub statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haizzdungnay&show_icons=true&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="GitHub stats card" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=haizzdungnay&background=0c172c&border=244658&stroke=244658&ring=4de0dd&fire=4de0dd&currStreakNum=f4f8fd&sideNums=f4f8fd&currStreakLabel=4de0dd&sideLabels=bdccdc&dates=83a4bb" alt="GitHub contribution streak card" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haizzdungnay&layout=compact&bg_color=0c172c&title_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Most used languages card" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haizzdungnay&theme=github_dark" alt="GitHub profile summary card" />
+</div>
 
 ## Education & community
 
