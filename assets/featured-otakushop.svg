@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
+  <title id="title">OtakuShop — engineering project</title>
+  <desc id="desc">Authentication, cart, checkout and VNPAY sandbox integration. NEXT.JS  /  PRISMA  /  POSTGRESQL</desc>
+  <rect x="2" y="2" width="596" height="216" rx="14" fill="#0c172c" stroke="#244658" stroke-width="2"/>
+  <rect x="3" y="3" width="594" height="7" rx="3" fill="#4de0dd"/>
+  <rect x="26" y="26" width="56" height="56" rx="12" fill="#15384b"/>
+  <g transform="translate(26 26)" fill="none" stroke="#4de0dd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="37" r="2.8"/><circle cx="36" cy="37" r="2.8"/><path d="M11 13h5l5 18h18l5-14H19"/></g>
+  <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    <text x="101" y="53" fill="#f4f8fd" font-size="27" font-weight="700">OtakuShop</text>
+    <text x="102" y="76" fill="#4de0dd" font-size="13" font-weight="700" letter-spacing="1.15">FULL-STACK  /  COMMERCE</text>
+    <text x="27" y="124" fill="#c3d6e8" font-size="21">Authentication, cart, checkout</text>
+    <text x="27" y="151" fill="#c3d6e8" font-size="21">and VNPAY sandbox integration</text>
+    <line x1="27" y1="171" x2="573" y2="171" stroke="#244658" stroke-width="1"/>
+    <text x="27" y="195" fill="#8fc5d0" font-size="15" font-weight="600" letter-spacing="0.35">NEXT.JS  /  PRISMA  /  POSTGRESQL</text>
+    <text x="572" y="195" fill="#4de0dd" text-anchor="end" font-size="14" font-weight="700">VIEW REPO  ›</text>
+  </g>
+</svg>
