@@ -42,14 +42,31 @@
 - Elastic SIEMのアラート監視・トリアージ、Windowsイベントログ、Syslog、ネットワークトラフィックの分析。
 - 複数の証跡を照合し、観測した挙動をMITRE ATT&CKに対応付け、エスカレーション用の調査報告を作成。
 
-## 主なプロジェクト
+## 注目のエンジニアリングプロジェクト
+
+フルスタック開発、セキュリティエンジニアリング、Android／バックエンド、産業用ソフトウェアの4分野を紹介します。各ケーススタディでは公開資料、担当範囲、検証上の制約を明確にしています。
+
+| Engineering case study | Public evidence |
+| :--- | :--- |
+| **[OtakuShop — フルスタックEC](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
+| **[Local AI SIEM — セキュリティエンジニアリング](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
+| **[V-SAT Compass — Android・バックエンド](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
+| **[DDC24 — 産業用アプリケーション・DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
+
+## その他のプロジェクト詳細
 
 <div align="center">
-  <a href="https://github.com/haizzdungnay/DDC24">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 リポジトリカード" />
+  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=WebSiteOtakuShopVer2&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="OtakuShop — フルスタックEC" />
   </a>
-  <a href="https://github.com/haizzdungnay/MK200">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=MK200&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="MK200 リポジトリカード" />
+  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=local-ai-siem-analyzer&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="Local AI SIEM — セキュリティエンジニアリング" />
+  </a>
+  <a href="https://github.com/haizzdungnay/VSAT_COMPASS">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=VSAT_COMPASS&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="V-SAT Compass — Android・バックエンド" />
+  </a>
+  <a href="https://github.com/haizzdungnay/DDC24">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=haizzdungnay&repo=DDC24&bg_color=0c172c&title_color=4de0dd&icon_color=4de0dd&text_color=bdccdc&border_color=244658" alt="DDC24 — 産業用アプリケーション・DevOps" />
   </a>
 </div>
 
@@ -64,7 +81,7 @@
 | **[VNA Đắk Song](https://github.com/haizzdungnay/VNA_Chat-Bot-for-Dak-Song-prv)** | 観光向けWeb/Zalo Mini App、管理ツール、バックエンド連携を一貫して実装。 | React, TypeScript, Zalo Mini App, Cloudflare Workers/D1 |
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | 認証、アクセス制御、注文処理、VNPAYサンドボックス連携を備えたECアプリを一貫して実装。 | Next.js, TypeScript, Prisma, PostgreSQL |
 
-最後の4件はチームプロジェクトとして実施し、実装全般を私が担当しました。
+一部のプロジェクトはチームまたは学術活動として進めました。個人の担当範囲はプロジェクトごとに明示し、共同作業者へのクレジットも維持しています。ケーススタディでは個人の貢献、システム全体の機能、公開資料に基づく検証結果を区別しています。
 
 ## 技術スキル
 
