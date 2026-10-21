@@ -17,7 +17,7 @@
 
 <p>
   TP. Hồ Chí Minh, Việt Nam · Sẵn sàng làm việc từ xa và chuyển nơi ở để làm việc<br />
-  <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Các repository</a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-d%C6%B0%C6%A1ng-%C4%91inh-965011285/">LinkedIn</a> · <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Các repository</a>
 </p>
 
 </div>
@@ -31,7 +31,7 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 ## Kinh nghiệm
 
 **Mekong Technologies — Công ty Cổ phần Công nghệ Mekong**  
-**IT Full-stack & DevOps**  
+**Full-Stack Engineer**  
 *05/2026 – 09/2026 · Thực tập: 05–06/2026 · Nhân viên chính thức: 07–09/2026*
 
 - **DDC24:** phát triển frontend, logic ứng dụng backend và phụ trách công việc DevOps cho bộ điều khiển BMS biên chạy trên Linux. Công nghệ dự án: React/TypeScript, Go, GitHub Actions, CMake và systemd.
@@ -47,25 +47,19 @@ Các dự án của mình trải rộng từ IoT công nghiệp, dịch vụ Lin
 
 Bốn dự án đại diện cho năng lực Full-Stack, Security Engineering, Android/backend và phần mềm công nghiệp. Mỗi bài phân tích liên kết với mã nguồn hoặc tài liệu công khai, nêu rõ đóng góp cá nhân và giới hạn kiểm chứng.
 
-| Engineering case study | Public evidence |
-| :--- | :--- |
-| **[OtakuShop — Thương mại điện tử Full-Stack](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
-| **[Local AI SIEM — Kỹ thuật bảo mật](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
-| **[V-SAT Compass — Android & Backend](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
-| **[DDC24 — Ứng dụng công nghiệp & DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
-
-## Danh sách dự án và công nghệ
-
 <p align="center">
-  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — Thương mại điện tử Full-Stack" /></a>
-  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM — Phân tích cảnh báo bảo mật" /></a>
+  <a href="./docs/case-studies/otakushop.md"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — Thương mại điện tử Full-Stack" /></a>
+  <a href="./docs/case-studies/local-ai-siem.md"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM — Phân tích cảnh báo bảo mật" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/haizzdungnay/VSAT_COMPASS"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Android và Backend" /></a>
-  <a href="https://github.com/haizzdungnay/DDC24"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — Phần mềm công nghiệp và DevOps" /></a>
+  <a href="./docs/case-studies/vsat-compass.md"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Android và Backend" /></a>
+  <a href="./docs/case-studies/ddc24.md"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — Phần mềm công nghiệp và DevOps" /></a>
 </p>
 
 <br/>
+
+<details>
+<summary><strong>Đóng góp và mã nguồn các dự án</strong></summary>
 
 | Dự án | Phần mình thực hiện | Công nghệ |
 | :--- | :--- | :--- |
@@ -77,6 +71,8 @@ Bốn dự án đại diện cho năng lực Full-Stack, Security Engineering, A
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | Triển khai toàn bộ ứng dụng thương mại điện tử: xác thực, phân quyền, đặt hàng và tích hợp VNPAY sandbox. | Next.js, TypeScript, Prisma, PostgreSQL |
 
 Một số dự án được tổ chức theo nhóm hoặc trong môi trường học thuật. Phần việc mình trực tiếp đảm nhiệm được mô tả theo từng dự án; đồng thời giữ nguyên ghi nhận các thành viên tham gia. Các bài phân tích kỹ thuật tách biệt vai trò cá nhân, chức năng toàn hệ thống và minh chứng công khai.
+
+</details>
 
 ## Công nghệ và kỹ năng
 

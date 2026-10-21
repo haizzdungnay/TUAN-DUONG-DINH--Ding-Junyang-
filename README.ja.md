@@ -17,7 +17,7 @@
 
 <p>
   ベトナム・ホーチミン市在住 · リモート勤務・転居に対応可能<br />
-  <a href="mailto:tuanduongdinh2004@gmail.com">メール</a> · <a href="https://github.com/haizzdungnay?tab=repositories">リポジトリ一覧</a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-d%C6%B0%C6%A1ng-%C4%91inh-965011285/">LinkedIn</a> · <a href="mailto:tuanduongdinh2004@gmail.com">メール</a> · <a href="https://github.com/haizzdungnay?tab=repositories">リポジトリ一覧</a>
 </p>
 
 </div>
@@ -30,7 +30,7 @@
 
 ## 職務経験
 
-**Mekong Technologies — ITフルスタック開発・DevOps**  
+**Mekong Technologies — フルスタックエンジニア**  
 *2026年5月〜9月 · インターン：5月〜6月 · 正社員として勤務：7月〜9月*
 
 - **DDC24：** Linux上で動作するBMSエッジコントローラーのフロントエンド、バックエンドのアプリケーションロジック、DevOpsを担当。プロジェクトの技術構成はReact/TypeScript、Go、GitHub Actions、CMake、systemdです。
@@ -46,25 +46,19 @@
 
 フルスタック開発、セキュリティエンジニアリング、Android／バックエンド、産業用ソフトウェアの4分野を紹介します。各ケーススタディでは公開資料、担当範囲、検証上の制約を明確にしています。
 
-| Engineering case study | Public evidence |
-| :--- | :--- |
-| **[OtakuShop — フルスタックEC](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
-| **[Local AI SIEM — セキュリティエンジニアリング](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
-| **[V-SAT Compass — Android・バックエンド](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
-| **[DDC24 — 産業用アプリケーション・DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
-
-## その他のプロジェクト詳細
-
 <p align="center">
-  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — フルスタックEC" /></a>
-  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM — セキュリティ分析" /></a>
+  <a href="./docs/case-studies/otakushop.md"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — フルスタックEC" /></a>
+  <a href="./docs/case-studies/local-ai-siem.md"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM — セキュリティ分析" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/haizzdungnay/VSAT_COMPASS"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Androidとバックエンド" /></a>
-  <a href="https://github.com/haizzdungnay/DDC24"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — 産業用ソフトウェアとDevOps" /></a>
+  <a href="./docs/case-studies/vsat-compass.md"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Androidとバックエンド" /></a>
+  <a href="./docs/case-studies/ddc24.md"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — 産業用ソフトウェアとDevOps" /></a>
 </p>
 
 <br/>
+
+<details>
+<summary><strong>担当内容とソースリポジトリ</strong></summary>
 
 | プロジェクト | 担当内容 | 技術 |
 | :--- | :--- | :--- |
@@ -76,6 +70,8 @@
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | 認証、アクセス制御、注文処理、VNPAYサンドボックス連携を備えたECアプリを一貫して実装。 | Next.js, TypeScript, Prisma, PostgreSQL |
 
 一部のプロジェクトはチームまたは学術活動として進めました。個人の担当範囲はプロジェクトごとに明示し、共同作業者へのクレジットも維持しています。ケーススタディでは個人の貢献、システム全体の機能、公開資料に基づく検証結果を区別しています。
+
+</details>
 
 ## 技術スキル
 

@@ -17,7 +17,7 @@
 
 <p>
   Ho Chi Minh City, Vietnam · Open to remote work and relocation<br />
-  <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-d%C6%B0%C6%A1ng-%C4%91inh-965011285/">LinkedIn</a> · <a href="mailto:tuanduongdinh2004@gmail.com">Email</a> · <a href="https://github.com/haizzdungnay?tab=repositories">Repositories</a>
 </p>
 
 </div>
@@ -30,7 +30,7 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 
 ## Experience
 
-**Mekong Technologies — IT Full-stack & DevOps**  
+**Mekong Technologies — Full-Stack Engineer**  
 *May–September 2026 · Internship: May–June · Full-time: July–September*
 
 - **DDC24:** developed the frontend and backend application logic, and handled DevOps work for a Linux-based BMS edge controller. Project stack: React/TypeScript, Go, GitHub Actions, CMake and systemd.
@@ -46,25 +46,19 @@ My projects span industrial IoT, Linux services, AI-assisted security analysis a
 
 A curated entry point for recruiters: working software, security-focused engineering and documented implementation decisions. Each case study links to public source evidence and states verification limits.
 
-| Engineering case study | Public evidence |
-| :--- | :--- |
-| **[OtakuShop — Full-Stack Commerce](./docs/case-studies/otakushop.md)** | [Source repository](https://github.com/haizzdungnay/WebSiteOtakuShopVer2) |
-| **[Local AI SIEM — Security Engineering](./docs/case-studies/local-ai-siem.md)** | [Source repository](https://github.com/haizzdungnay/local-ai-siem-analyzer) |
-| **[V-SAT Compass — Android & Backend](./docs/case-studies/vsat-compass.md)** | [Source repository](https://github.com/haizzdungnay/VSAT_COMPASS) |
-| **[DDC24 — Industrial Application & DevOps](./docs/case-studies/ddc24.md)** | [Source repository](https://github.com/haizzdungnay/DDC24) |
-
-## Additional project details
-
 <p align="center">
-  <a href="https://github.com/haizzdungnay/WebSiteOtakuShopVer2"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — Full-Stack Commerce" /></a>
-  <a href="https://github.com/haizzdungnay/local-ai-siem-analyzer"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM Analyzer — Security Engineering" /></a>
+  <a href="./docs/case-studies/otakushop.md"><img src="./assets/featured-otakushop.svg" width="49%" alt="OtakuShop — Full-Stack Commerce" /></a>
+  <a href="./docs/case-studies/local-ai-siem.md"><img src="./assets/featured-local-ai-siem.svg" width="49%" alt="Local AI SIEM Analyzer — Security Engineering" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/haizzdungnay/VSAT_COMPASS"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Android and Backend" /></a>
-  <a href="https://github.com/haizzdungnay/DDC24"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — Industrial Software and DevOps" /></a>
+  <a href="./docs/case-studies/vsat-compass.md"><img src="./assets/featured-vsat-compass.svg" width="49%" alt="V-SAT Compass — Android and Backend" /></a>
+  <a href="./docs/case-studies/ddc24.md"><img src="./assets/featured-ddc24.svg" width="49%" alt="DDC24 — Industrial Software and DevOps" /></a>
 </p>
 
 <br/>
+
+<details>
+<summary><strong>Project contributions and source repositories</strong></summary>
 
 | Project | What I worked on | Technologies |
 | :--- | :--- | :--- |
@@ -76,6 +70,8 @@ A curated entry point for recruiters: working software, security-focused enginee
 | **[OtakuShop](https://github.com/haizzdungnay/WebSiteOtakuShopVer2)** | End-to-end implementation of an e-commerce application with authentication, access control, ordering and VNPAY sandbox integration. | Next.js, TypeScript, Prisma, PostgreSQL |
 
 Several projects originated in team or academic settings. My implementation responsibilities are described per project; original collaborators and repository attribution are retained. The case studies separate personal contributions, project-wide capabilities and verified public evidence.
+
+</details>
 
 ## Technical toolkit
 
