@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4DE0DD&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;DevSecOps+Engineer;Security+Engineering+Enthusiast;Building+Secure+%26+Scalable+Systems)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=haizzdungnay&style=flat-square&color=4de0dd&labelColor=0c172c&label=Profile+views" alt="Lượt xem hồ sơ" />
   <img src="https://img.shields.io/github/followers/haizzdungnay?style=flat-square&color=4de0dd&labelColor=0c172c&label=Followers" alt="Người theo dõi GitHub" />
 </p>
 
